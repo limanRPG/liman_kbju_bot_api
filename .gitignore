@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+telegram_bot.json
+bot_token.json
+token.json
+logmeal_response.json
+*.jpeg
+*.jpg
+*.png
